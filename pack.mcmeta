@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Librarian villagers no longer sell Mending books",
+    "min_format": 121,
+    "max_format": 121
+  }
+}
